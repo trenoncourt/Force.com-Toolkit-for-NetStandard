@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.3</TargetFramework>
+    <PackageId>SalesforceCommon.NetStandard</PackageId>
+    <Authors>trenoncourt</Authors>
+    <Company />
+    <Description>NetStandard version of Force.com-Toolkit-for-NET from salesforce
+The Force.com Toolkits for .NET provides an easy way for .NET developers to interact with the Force.com &amp; Chatter REST APIs using native libraries.</Description>
+    <PackageLicenseUrl>https://github.com/trenoncourt/Force.com-Toolkit-for-NetStandard/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/trenoncourt/Force.com-Toolkit-for-NetStandard</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/trenoncourt/Force.com-Toolkit-for-NetStandard</RepositoryUrl>
+    <PackageTags>salesforce, force, rest, api, forcedotcom, force.com, netstandard, netcore</PackageTags>
+    <Version>1.3.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
