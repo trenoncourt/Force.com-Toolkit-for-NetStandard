@@ -12,3 +12,5 @@ Or if you want to made your own client:
 ```powershell
 Install-Package SalesforceCommon.NetStandard
 ```
+## Buy me a beer
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/trenoncourt/5)
