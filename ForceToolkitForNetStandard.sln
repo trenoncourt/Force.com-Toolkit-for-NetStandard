@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceToolkitForNetStandard.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrariesForNetStandard.UnitTests", "tests\CommonLibrariesForNetStandard.UnitTests\CommonLibrariesForNetStandard.UnitTests.csproj", "{6917B46C-DFA6-428C-BEF8-233B98CC4187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrariesForNetStandard.FunctionalTests", "tests\CommonLibrariesForNetStandard.FunctionalTests\CommonLibrariesForNetStandard.FunctionalTests.csproj", "{030F8DF4-BFA3-4D16-9C9D-1951F30EE12A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{6917B46C-DFA6-428C-BEF8-233B98CC4187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6917B46C-DFA6-428C-BEF8-233B98CC4187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6917B46C-DFA6-428C-BEF8-233B98CC4187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030F8DF4-BFA3-4D16-9C9D-1951F30EE12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030F8DF4-BFA3-4D16-9C9D-1951F30EE12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030F8DF4-BFA3-4D16-9C9D-1951F30EE12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030F8DF4-BFA3-4D16-9C9D-1951F30EE12A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,5 +61,6 @@ Global
 		{385C3761-0849-4364-80C1-6130DD489FA8} = {6ED2677D-AF47-4A43-B3A4-406CAB4A38E0}
 		{2444DEEC-E782-48DA-84E3-C50C154D699E} = {6ED2677D-AF47-4A43-B3A4-406CAB4A38E0}
 		{6917B46C-DFA6-428C-BEF8-233B98CC4187} = {6ED2677D-AF47-4A43-B3A4-406CAB4A38E0}
+		{030F8DF4-BFA3-4D16-9C9D-1951F30EE12A} = {6ED2677D-AF47-4A43-B3A4-406CAB4A38E0}
 	EndGlobalSection
 EndGlobal
